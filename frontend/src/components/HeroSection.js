@@ -46,7 +46,7 @@ export const HeroSection = () => {
           transition={{ duration: 0.8 }}
         >
           <div className="font-accent text-2xl md:text-3xl text-secondary-600 mb-6">
-            For Her
+            For Nims
           </div>
           
           <h1 
